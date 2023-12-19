@@ -1,0 +1,47 @@
+MOCKUP MEASUREMENTS
+
+Font — system-ui, sans-serif;
+
+Global measurements:
+1. Container — 1280px;
+2. Column — 70px;
+3. Gap — 40px;
+4. Image border radius — 70px;
+5. Button border radius — 10px;
+6. Button padding — 10px 20px;
+7. Font size — 16px;
+
+Header measurements:
+1. Logo font size — 30px;
+2. Font weight — 800;
+3. Color — Primary;
+4. Header height — 80px;
+
+Hero measurements:
+1. Headline
+1.1. Font size — 72px;
+1.2. Line height — 72px;
+1.3. Font weight — 400;
+1.4. Font weight strong — 800;
+2. Slogan
+2.1. Font size — 24px;
+2.2. Line height — 36px;
+3. Buttons
+3.1. Button hero padding: 12px 40px;
+3.2. Font size: 20px;
+4. Section height — 640px;
+5. Section padding — 40px 0;
+
+Colors:
+1. Background:
+1.1. HSL — 36, 100%, 95%;
+1.2. RGB — 255, 245, 230;
+1.3. HEX — #fff5e6;
+2. Gray:
+3.1. HSL — 0, 0%, 15%;
+3.2. RGB — 37, 37, 37;
+3.3. HEX — #252525;
+3. Primary:
+3.1. HSL — 350, 85%, 42%;
+3.2. RGB — 200, 16, 46;
+3.3. HEX — #c8102e;

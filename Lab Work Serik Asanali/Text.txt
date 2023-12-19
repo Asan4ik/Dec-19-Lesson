@@ -1,0 +1,14 @@
+1. Header:
+1.1. Logo — InteriorMaker
+1.2. Menu:
+1.2.1. Home
+1.2.2. Key Features
+1.2.3. Pricing
+1.2.4. FAQ
+1.3. Button — Register
+
+2. Hero:
+2.1. Headline — Crafting Space for Enhanced Living.
+2.2. Slogan: Our integrated approach to interior and exterior design allows us to provide a comprehensive solution that best meets our clients' needs.
+2.3. Buttons:
+2.3.1. Get Started2.3.2. View More
