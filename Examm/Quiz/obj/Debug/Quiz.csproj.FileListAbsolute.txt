@@ -1,0 +1,15 @@
+C:\Users\SerikA\source\repos\Exam\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\SerikA\source\repos\Exam\Quiz\bin\Debug\Quiz.exe
+C:\Users\SerikA\source\repos\Exam\Quiz\bin\Debug\Quiz.pdb
+C:\Users\SerikA\source\repos\Exam\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+C:\Users\SerikA\source\repos\Exam\Quiz\obj\Debug\Quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\SerikA\source\repos\Exam\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\SerikA\source\repos\Exam\Quiz\obj\Debug\Quiz.exe
+C:\Users\SerikA\source\repos\Exam\Quiz\obj\Debug\Quiz.pdb
+C:\Users\aseri\Desktop\Exam\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\aseri\Desktop\Exam\Quiz\bin\Debug\Quiz.exe
+C:\Users\aseri\Desktop\Exam\Quiz\bin\Debug\Quiz.pdb
+C:\Users\aseri\Desktop\Exam\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+C:\Users\aseri\Desktop\Exam\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\aseri\Desktop\Exam\Quiz\obj\Debug\Quiz.exe
+C:\Users\aseri\Desktop\Exam\Quiz\obj\Debug\Quiz.pdb
